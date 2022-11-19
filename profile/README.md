@@ -1,1 +1,1 @@
-Migrated to https://sr.ht/~johnteske/johnteskemusic/
+Migrated to https://sr.ht/~johnteske/music/
